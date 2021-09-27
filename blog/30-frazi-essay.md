@@ -12,6 +12,8 @@ V tomto článku se podíváme na 30 frází, které vám pomohou se lépe vyjad
 
 Doporučuju se tyto fráze naučit. Díky nim pak bude vypadat vaše esej mnohem lépe.
 
+<iframe width="560" height="315" allow="fullscreen;" src="https://www.youtube.com/embed/zYyos3HLCk8"></iframe>
+
 ### Rozdělení myšlenek a odstavců:
 
 - **Firstly, secondly, thirdly** - Zaprvé, zadruhé, zatřetí
