@@ -8,9 +8,7 @@ taxonomy:
     - blog
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <iframe width="560" height="315" allow="fullscreen;" src="https://www.youtube.com/embed/zYyos3HLCk8"></iframe>
-</div>
+<iframe width="560" height="315" allow="fullscreen;" src="https://www.youtube.com/embed/zYyos3HLCk8"></iframe>
 
 V tomto článku se podíváme na 30 frází, které vám pomohou se lépe vyjadřovat v esejích a ostatních textech v angličitně.
 
