@@ -1,6 +1,6 @@
 ---
 title: 30 anglických frází pro psaní ESEJÍ
-menu_order: 1
+menu_order: 2
 post_status: publish
 post_excerpt: V tomto článku se podíváme na 30 frází, které vám pomohou se lépe vyjadřovat v esejích a ostatních textech v angličitně.
 taxonomy:
