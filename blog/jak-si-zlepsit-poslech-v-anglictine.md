@@ -30,19 +30,19 @@ Krása trénování poslechu je ta, že můžete trénovat kdykoliv kdy máte vo
 
 Pokud už koukáte na filmy nebo seriály, posloucháte audioknížky nebo podcasty, tak stačí jenom začít poslouchat v angličitně.
 
-#### 🎞Filmy, seriály a videa
+#### 🎬Filmy, seriály a videa
 Asi nejlepším způsobem, jak si zlepšit poslech jsou filmy, seriály a videa na internetu. 
 
 Filmy a seriály jsou mnohem jednodušší na poslech, než audioknihy a podcasty protože je pro mozek lehčí si spojit věci dohromady, když vidí nějakou scénu, kde se příběh odehrává.
 
 Je tak potom mnohem jednodušší pochopit, o co vůbec v příběhu jde. Pokud váháte, doporučuju tedy začít tím, kde máte k poslechu i video (filmy, videa, seriály) a až později se zaměřit na podcasty a audioknížky.
 
-##### Sledování seriálů které už člověk viděl
+#### Sledování seriálů které už člověk viděl
 Pokud jste ten typ člověka, co je schopný sledovat seriály nebo filmy furt dokola, určitě toho využijte a **začněte v angličtině sledovat filmy a seriály, které už znáte**.
 
 Obrovskou výhodou je, že už předem znáte, o co zhruba v příběhu jde a bude tak pro vás mnohem jednodušší pochopit jednotlivé scény.
 
-##### Koukat s titulkama nebo bez? A s českýma nebo anglickýma?
+#### Koukat s titulkama nebo bez? A s českýma nebo anglickýma?
 Častou otázkou je, jestli by měl člověk sledovat filmy s titulky nebo bez nich. Já určitě doporučuju koukat na filmy bez titulků, kdykoliv kdy jste schopný to zvádnout. Mozek se tím víc soustředí na poslech samotný a ne na čtení textu.
 
 Na druhou stranu, pokud cítíte, že je pro vás sledování bez titulků až moc těžké, nebojte se je zapnout. 
@@ -51,7 +51,7 @@ Je mnohem lepší rozumět tomu, o co ve filmu jde, než se trápit a vůbec nec
 
 Titulky doporučuju používat zásadně **anglické**. S českými titulky byste tak akorát mátli svůj mozek a nic moc byste si z poslechu neodnesli.
 
-#### Sledování videí
+#### 💻Sledování videí
 Než se pustíte do filmů a seriálů, určitě doporučuju nejdřív trénovat na videích např. na **YouTubu**. 
 
 Videa jsou často **mnohem jednodušší** na porozumění, protože v nich není komplikovaný příběh, často jsou zaměřená jen na jedno téma a je mnohem jednodušší vůbec pochopit, o čem celé video je.
@@ -107,7 +107,7 @@ Hodně lidí má problém s tím, že se nutí poslouchat věci, které je vůbe
 
 To stejné platí pro vás. Najděte si 5 témat, která vás opravdu zajímají, a ke každému si zkuste najít nějaký podcast, nebo videa a uvidíte, že vás to bude bavit mnohem víc.
 
-### TLDR shrnutí a actionable steps
+### 📋 TLDR shrnutí a actionable steps
 Abyste si z tohoto článku něco odnesli a mohli rovnou začít něco dělat, tady máte pár kroků, kterými začít při trénování listeningu: 
 1) Sepište si, které **způsoby trénování** listeningu vás nejvíce baví, nebo které byste chtěli zkusit (např. filmy, seriály, videa, podcasty, ... viz výše)
 2) Sepište si aspoň **3 témata**, která vás zajímají (např. "vaření", "sport", "hry", "trpaslíci a elfové")
