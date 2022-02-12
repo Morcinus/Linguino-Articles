@@ -1,5 +1,5 @@
 ---
-title: Jak si zlepšit poslech v Angličtině | Kompletní návod 2022
+title: Jak si zlepšit poslech v Angličtině 🎧 | Kompletní návod 2022
 menu_order: 1
 post_status: publish
 post_excerpt: V tomto článku se podíváme na to, jak trénovat a zdokonalit poslech v angličtině.
@@ -8,7 +8,6 @@ taxonomy:
     - blog
 ---
 
-## Jak si zlepšit poslech v Angličtině 🎧 | Kompletní návod 2022
 2022-02-11 11:06
 
 Poslech je jeden ze skillů, který není časově zas tolik náročný na naučení, ale i přes to s ním většina lidí zápasí, protože nikdo pořádně neví, jak správně poslech trénovat tak, aby je to bavilo a aby dělali pokrok.
