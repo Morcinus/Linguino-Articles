@@ -10,7 +10,9 @@ taxonomy:
 
 2022-02-11 11:06
 
-Poslech je jeden ze skillů, který není časově zas tolik náročný na naučení, ale i přes to s ním většina lidí zápasí. Hodně lidí totiž neví, jak správně poslech trénovat tak, aby je to bavilo a aby dělali pokrok.
+<iframe width="560" height="315" allow="fullscreen;" src="https://www.youtube.com/embed/L4X1uh24SzE"></iframe>
+
+Poslech je jeden ze skillů, který není časově zas tolik náročný na naučení, ale i přes to s ním má většina lidí problém. Hodně lidí totiž neví, jak správně poslech trénovat tak, aby je to bavilo a aby dělali pokrok.
 
 V tomto článku se podíváme na to, jak se můžete učit poslech tak, abyste se pořád posouvali dopředu a aby vás to co nejvíce bavilo.
 
@@ -43,7 +45,7 @@ Další obrovskou výhodou YouTubu je, že **většina videí má k dispozici ti
 
 ![Titulky na YouTube](/_images/00001.png "Titulky na YouTube")
 
-#### 🎬Filmy, seriály a videa
+#### 🎬Filmy a seriály
 Dalším skvělým způsobem, jak si zlepšit poslech je sledování filmů a seriálů.
 
 Filmy a seriály jsou o něco těžší než videa, ale pořád jsou často jednodušší, než audioknížky nebo podcasty. U filmů na rozdíl od audioknížek, člověk vidí i video, takže může být pro mozek mnohem jednodušší pochopit, o co vůbec v příběhu jde.
@@ -98,7 +100,7 @@ Rozhodně se nebojte experimentovat a zkusit i nové formy poslechu, které jste
 ### 💪Jak zvolit vhodnou obtížnost
 Tak teď se dostáváme k nejdůležitější části - jak zvolit vhodnou obtížnost pro poslech.
 
-Hlavním principem je: přizpůsobovat si poslech vaší úrovni angličtiny. Pokud je to pro vás poslech moc těžký, tak je potřeba snížit tu obtížnost poslechu.
+Hlavním principem je: přizpůsobovat si poslech vaší úrovni angličtiny. Pokud je pro vás poslech moc těžký, tak je potřeba snížit obtížnost.
 
 Naopak pokud je pro vás poslech easy peasy, tak je potřeba obtížnost zvýšit.
 
@@ -123,15 +125,15 @@ Pokud filmy zvládáte v pohodě, zkuste audioknihy a podcasty o odbornějších
 ### ✨Tip na závěr: Poslouchejte to, co vás zajímá
 Hodně lidí má problém s tím, že se nutí poslouchat věci, které je vůbec nezajímají. Pokud vezmete nějakýho manažera a budete ho nutit poslouchat anglickou verzi Prasátka Pepiny, asi z toho nebude úplně nadšený. (I když zrovna tento seriál bych doporučoval každému :D)
 
-To stejné platí pro vás. Najděte si třeba 3 témata, která vás opravdu zajímají, a ke každému si zkuste najít nějaký podcast, nebo nějaká videa a uvidíte, že vás to bude bavit mnohem víc, než kdybyste se nutili do něčeho, co vás nezajímá.
+To stejné platí pro vás. Najděte si třeba 3 témata, která vás opravdu zajímají, a ke každému si zkuste najít nějaký podcast, nebo nějaká videa a uvidíte, že vás to bude bavit mnohem víc, než kdybyste se nutili do něčeho, co vás vůbec nezajímá.
 
 ### 📋 TLDR shrnutí a actionable steps
 Abyste si z tohoto článku odnesli něco praktického a mohli rovnou začít něco dělat, tady máte pár kroků, kterými začít při trénování listeningu: 
-1) Sepište si, který **způsob trénování** listeningu vás nejvíce baví, nebo který byste chtěli zkusit (např. filmy, seriály, videa, podcasty, ... viz výše)
+1) Sepište si, který **způsob trénování** poslechu vás nejvíce baví, nebo který byste chtěli zkusit (např. filmy, seriály, videa, podcasty, ... viz výše)
 2) Sepište si aspoň **3 témata**, která vás zajímají (např. "vaření", "sport", "hry", "trpaslíci a elfové")
 3) Ke každému tématu si najděte 3 videa, filmy, podcasty, audioknihy nebo seriály, které působí zajímavě a které chtěli byste je zkouknout.
 4) **Začněte poslouchat** :) Kdykoliv kdy někam jedete, v autě, v buse, při procházce, zkrátka kdykoliv kdy máte chvilku volno.
 
-*Většina z nás stejně ve volném čase sleduje filmy, seriály, videa nebo podcasty, tak proč to nevyužít k učení se angličtiny? Nic vás to nestojí, stačí jen začít :)*
+*Většina z nás stejně ve volném čase sleduje filmy, seriály, videa nebo podcasty, tak proč to nevyužít k učení se angličtiny?* 
 
 Tak jo, díky za přečtení tohoto článku, pokud se vám líbil, tak určitě mrkněte na další články na tomto [Blogu](https://www.pandulino.com/blog/), nebo koukněte na náš YouTube kanál [Pandulino Angličtina](https://www.youtube.com/channel/UCYxpx3r_FTb8jyL6zl-hSpg?sub_confirmation=1).
