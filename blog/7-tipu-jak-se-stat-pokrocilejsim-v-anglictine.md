@@ -1,6 +1,6 @@
 ---
 title: 7 Tipů, jak se stát POKROČILÝM v ANGLIČTINĚ
-menu_order: 1
+menu_order: 3
 post_status: publish
 post_excerpt: Když se člověk pomalu posouvá od začátečníků k pokročilým, často narazí na různé překážky, které učení akorát ztíží a zpomalí. V tomto článku se podiváme na 7 tipů, které vám pomohou se stát pokročilým v angličtině.
 taxonomy:

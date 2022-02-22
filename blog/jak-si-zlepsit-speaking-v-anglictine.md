@@ -1,6 +1,6 @@
 ---
 title: Jak si zlepšit SPEAKING v ANGLIČTINĚ 📣 | Kompletní návod 2022
-menu_order: 1
+menu_order: 2
 post_status: draft
 post_excerpt: V tomto článku se podíváme na to, jak trénovat a zdokonalit speaking v angličtině.
 taxonomy:
