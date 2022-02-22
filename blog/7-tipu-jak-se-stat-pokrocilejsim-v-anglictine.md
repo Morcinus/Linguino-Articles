@@ -2,7 +2,7 @@
 title: 7 Tipů, jak se stát POKROČILÝM v ANGLIČTINĚ
 menu_order: 3
 post_status: publish
-post_excerpt: Když se člověk pomalu posouvá od začátečníků k pokročilým, často narazí na různé překážky, které učení akorát ztíží a zpomalí. V tomto článku se podiváme na 7 tipů, které vám pomohou se stát pokročilým v angličtině.
+post_excerpt: V tomto článku se podiváme na 7 tipů, které vám pomohou se stát pokročilým v angličtině.
 taxonomy:
   category:
     - blog
@@ -10,6 +10,10 @@ taxonomy:
 2022-02-22 07:38
 
 <!-- ADD AT LEAST 1 PICTURE -->
+
+Když se člověk pomalu posouvá od začátečníků k pokročilým, často narazí na různé překážky, které učení akorát ztíží a zpomalí. 
+
+V tomto článku se podiváme na 7 tipů, které vám pomohou se stát pokročilým v angličtině.
 
 ### Správná výslovnost
 První a jeden z nejdůležitějších tipů je, abyste se začali učit správnou výslovnost. Problém je, že ve škole i v kurzech se dává na výslovnost malý důraz, a proto často člověk po škole skončí s takovou zvláštní výslovností a divným přízvukem a často ani pořádně neví, jestli vůbec mluví správně.
@@ -55,7 +59,7 @@ Slovíček není nikdy dost a pořád se můžete učit nová. Proto je fajn se 
 
 Učením slovíček nic nezkazíte a rozhodně vám to pak pomůže v čemkoliv, co budete v angličtině dělat.
 
-### Hovorová angličtinu
+### Hovorová angličtina
 Pátý tip je, abyste se naučili používat idiomy, hovorové výrazy a frázová slovesa.
 
 Problém s tím, jak se normálně učí angličtina je ten, že často nemáte moc příležitost se naučit, jak reálně mezi sebou mluví rodilí mluvčí. Možná jste to někdy zažili, jestli jste viděli cizince, co mluví česky.
