@@ -2,6 +2,7 @@
 title: Test article
 menu_order: 1
 post_status: publish
+post_id: test-post-id
 taxonomy:
   category:
     - a1
@@ -19,7 +20,8 @@ Druhý způsob vyjádření budoucnosti je pomocí vazby "to be going to". Použ
 
 > I’m **going to** take a break for a month. = Na měsíc si dám pauzu.
 
->It's **going to** rain. Look at the couds. = Bude pršet. Podívej na ty mraky.
+> It's **going to** rain. Look at the couds. = Bude pršet. Podívej na ty mraky.
+
 ## Zápor
 
 Zápor se tvoří negací slovesa být.
