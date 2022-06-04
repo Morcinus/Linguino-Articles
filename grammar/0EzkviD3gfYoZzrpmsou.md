@@ -1,8 +1,7 @@
 ---
-title: Test article
+title: Budoucí čas GOING TO
 menu_order: 1
 post_status: publish
-post_id: test-post-id
 taxonomy:
   category:
     - a1
@@ -25,11 +24,12 @@ Druhý způsob vyjádření budoucnosti je pomocí vazby "to be going to". Použ
 ## Zápor
 
 Zápor se tvoří negací slovesa být.
-| jednotné číslo | množné číslo |
-|:-----|:-----|
-| **I am not going to** visit France. | **We are not going to** visit France.|
-| **You are not going to** visit France.| **You are not going to** visit France.|
-| **He/She/It is not going to** visit France.| **They are not going to** visit France.|
+
+| jednotné číslo                              | množné číslo                            |
+| :------------------------------------------ | :-------------------------------------- |
+| **I am not going to** visit France.         | **We are not going to** visit France.   |
+| **You are not going to** visit France.      | **You are not going to** visit France.  |
+| **He/She/It is not going to** visit France. | **They are not going to** visit France. |
 
 > **We aren’t going to** travel to Italy. = Nebudeme cestovat do Itálie.
 
